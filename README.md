@@ -1,33 +1,34 @@
-- 👋 Hi, I’m @Nadul Laknidu
-- 👀 I’m interested in ...learning Ai
-- 🌱 I’m currently learning ... Software Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...Connect with linkedin/Facebook/Whatsapp
-- 😄 Pronouns: ...Nadux
-- ⚡ Fun fact: ...code when you sad
-
-<!---
-NaduX99/NaduX99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <!-- GitHub Banner -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/bd438c2c-8b88-4a65-bedc-362db9fe016f" width="30%" alt="GitHub Banner"/>
+  <img src="https://github.com/user-attachments/assets/bd438c2c-8b88-4a65-bedc-362db9fe016f" width="20%" alt="GitHub Banner"/>
 </div>
-# 👋 Hello, I'm NaduX99
 
-💻 Aspiring Software Engineer | 🌐 Web Developer | 🔍 Technology Explorer  
-I’m passionate about creating, building, and contributing to innovative solutions. Currently learning and building projects with Python, JavaScript, and more!
+# 👋 Hello, I'm Nadul Laknidu (NaduX99)
+
+💻 Aspiring Software Engineer | 🌐 Web Developer | 🤖 AI Enthusiast  
+I’m passionate about learning, building creative solutions, and exploring new technologies.  
+Currently learning **Software Engineering** while working on projects using **Python, Java, JavaScript, and Web Technologies**.
 
 ---
 
-## 🛠 Tech Stack
+## 👀 About Me
+
+- 🎯 Interested in **AI, Web Development, and Open Source**
+- 🌱 Currently learning **Software Engineering & AI Concepts**
+- 💬 Open to collaborate on **Web Projects, AI Experiments, and Learning Communities**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nadul-laknidu-53a244357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app), Facebook, or WhatsApp
+- 😄 Pronouns: **NaduX**
+- ⚡ Fun fact: _“Code when you're sad — it always helps!”_
+
+---
+
+## 🛠 My Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
 ---
@@ -42,18 +43,17 @@ I’m passionate about creating, building, and contributing to innovative soluti
 
 ## 🌟 Featured Projects
 
-- 🔧 [Project One](https://github.com/NaduX99/project-one) — short description
-- 🚀 [Project Two](https://github.com/NaduX99/project-two) — short description
+- 🔧 [Project One](https://github.com/NaduX99/project-one) — _Short project description here_
+- 🚀 [Project Two](https://github.com/NaduX99/project-two) — _Short project description here_
 
 ---
 
-## 🔗 Let's Connect
+## 🔗 Connect with Me
 
 - 🌐 [GitHub](https://github.com/NaduX99)
-- 📫 Email: nadullaknidu7@gmail.com
-     🚀 Linkedin :
-     https://www.linkedin.com/in/nadul-laknidu-53a244357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-    
+- 📫 Email: **nadullaknidu7@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/nadul-laknidu-53a244357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NaduX99&label=PROFILE+VIEWS&color=blue)
