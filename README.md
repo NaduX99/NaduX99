@@ -36,26 +36,22 @@ Currently learning **Software Engineering** while working on projects using **Py
 ## 🚀 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaduX99&show_icons=true&theme=radical&border_radius=15&title_color=ff6ec7&icon_color=79ff97" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaduX99&layout=compact&theme=radical&border_radius=15&langs_count=6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NaduX99&show_icons=true&theme=tokyonight&border_radius=10&hide_title=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaduX99&layout=compact&theme=tokyonight&border_radius=10&langs_count=6" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NaduX99&theme=radical&border_radius=15&date_format=j%20M%5B%20Y%5D" width="96%" />
+  <img src="https://streak-stats.demolab.com?user=NaduX99&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NaduX99&theme=dracula&no-frame=true&margin-w=15&column=6" width="96%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaduX99&theme=react-dark&hide_border=true&border_radius=15" width="96%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NaduX99&theme=algolia&no-frame=true&column=6&margin-w=10" width="95%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NaduX99&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=NaduX99&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" />
 </p>
 
 
