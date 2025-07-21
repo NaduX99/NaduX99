@@ -33,13 +33,28 @@ Currently learning **Software Engineering** while working on projects using **Py
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-![NaduX99's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaduX99&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaduX99&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NaduX99&theme=tokyonight)
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=NaduX99&show_icons=true&theme=transparent&hide_title=true&hide_border=true&custom_title=GitHub+Stats" width="48%" />
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaduX99&layout=compact&theme=transparent&hide_border=true&langs_count=6&custom_title=Top+Languages" width="48%" />
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=NaduX99&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="98%" />
+
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaduX99&theme=github-compact&hide_border=true" width="98%" />
+
+</div>
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=NaduX99&label=PROFILE+VIEWS&color=blue)
+
 
 ## 🌟 Featured Projects
 
