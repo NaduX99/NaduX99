@@ -41,10 +41,6 @@ Currently learning **Software Engineering** while working on projects using **Py
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaduX99&layout=compact&theme=vision-friendly-dark&border_radius=15&hide_border=true&langs_count=8" width="47%" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NaduX99&theme=highcontrast&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D" width="96%" />
-</p>
-
 ---
 
 ## 🌟 Fun Badges
