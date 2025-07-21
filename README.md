@@ -33,27 +33,31 @@ Currently learning **Software Engineering** while working on projects using **Py
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 🚀 GitHub Overview
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NaduX99&show_icons=true&theme=radical&border_radius=15&title_color=ff6ec7&icon_color=79ff97" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaduX99&layout=compact&theme=radical&border_radius=15&langs_count=6" width="48%" />
+</p>
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=NaduX99&show_icons=true&theme=transparent&hide_title=true&hide_border=true&custom_title=GitHub+Stats" width="48%" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NaduX99&theme=radical&border_radius=15&date_format=j%20M%5B%20Y%5D" width="96%" />
+</p>
 
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaduX99&layout=compact&theme=transparent&hide_border=true&langs_count=6&custom_title=Top+Languages" width="48%" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NaduX99&theme=dracula&no-frame=true&margin-w=15&column=6" width="96%" />
+</p>
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=NaduX99&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="98%" />
-
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaduX99&theme=github-compact&hide_border=true" width="98%" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaduX99&theme=react-dark&hide_border=true&border_radius=15" width="96%" />
+</p>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=NaduX99&label=PROFILE+VIEWS&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NaduX99&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" />
+</p>
+
 
 
 ## 🌟 Featured Projects
