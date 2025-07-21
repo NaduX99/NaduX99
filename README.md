@@ -10,9 +10,11 @@
 NaduX99/NaduX99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Banner](![WhatsApp Image 2025-07-21 at 15 00 58_de88a2e1](https://github.com/user-attachments/assets/5cca1ca5-edcd-4215-a444-a1d7042c99a7)
-)
-
+<!-- GitHub Banner -->
+<div align="center">
+  <img src="![my](https://github.com/user-attachments/assets/5cf186ce-ae98-42c5-9639-3b9fe3ba1f88)
+" width="100%" alt="GitHub Banner"/>
+</div>
 # 👋 Hello, I'm NaduX99
 
 💻 Aspiring Software Engineer | 🌐 Web Developer | 🔍 Technology Explorer  
