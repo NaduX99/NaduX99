@@ -12,8 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <!-- GitHub Banner -->
 <div align="center">
-  <img src="![my](https://github.com/user-attachments/assets/149f463f-cfc7-4bd7-a0ae-db08c2679955)
-" width="100%" alt="GitHub Banner"/>
+  <img src="![my](https://github.com/user-attachments/assets/bd438c2c-8b88-4a65-bedc-362db9fe016f)" width="100%" alt="GitHub Banner"/>
 </div>
 # 👋 Hello, I'm NaduX99
 
