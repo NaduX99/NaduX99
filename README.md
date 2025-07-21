@@ -36,22 +36,16 @@ Currently learning **Software Engineering** while working on projects using **Py
 ## 🚀 My GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaduX99&show_icons=true&theme=vision-friendly-dark&border_radius=15&hide_border=true&title_color=00ffe5&icon_color=00ffe5" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NaduX99&show_icons=true&theme=vision-friendly-dark&border_radius=15&hide_border=true" width="47%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaduX99&layout=compact&theme=vision-friendly-dark&border_radius=15&hide_border=true&langs_count=8&title_color=00ffe5" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaduX99&layout=compact&theme=vision-friendly-dark&border_radius=15&hide_border=true&langs_count=8" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NaduX99&theme=highcontrast&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&stroke=00ffe5" width="96%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NaduX99&theme=onestar&no-frame=true&margin-w=12&title=Stars,Followers,Commit,PR,Issues&column=6" width="96%" />
+  <img src="https://streak-stats.demolab.com?user=NaduX99&theme=highcontrast&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D" width="96%" />
 </p>
 
 ---
-
-
 
 ## 🌟 Fun Badges
 
