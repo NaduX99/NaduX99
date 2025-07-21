@@ -51,13 +51,7 @@ Currently learning **Software Engineering** while working on projects using **Py
 
 ---
 
-## 🏆 Achievements & Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaduX99&theme=github-compact&hide_border=true&area=true&radius=15" width="96%" />
-</p>
-
----
 
 ## 🌟 Fun Badges
 
