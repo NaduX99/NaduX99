@@ -63,18 +63,18 @@ Currently learning **Software Engineering** while working on projects using **Py
   
   <br><br>
   
-  <!-- Contribution Snake Animation - Updates Daily -->
-  <img src="https://raw.githubusercontent.com/NaduX99/NaduX99/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+  <!-- Additional Real-time Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=NaduX99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&custom_title=Overall%20GitHub%20Statistics"/>
   
   <br><br>
   
-  <!-- Weekly Language Stats - Auto Updates -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NaduX99&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact"/>
+  <!-- Commit Stats by Time -->
+  <img src="https://github-readme-stats.vercel.app/api?username=NaduX99&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
   
   <br><br>
   
-  <!-- Detailed GitHub Metrics -->
-  <img src="https://metrics.lecoq.io/NaduX99?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&discussions=1&code=1&activity=1&followup=1&lines=1&traffic=1&gists=1&people=1&projects=1&repositories=1&sponsors=1&stargazers=1&tweets=1&config.timezone=Asia%2FColombo"/>
+  <!-- Most Used Languages - Detailed View -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaduX99&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10&layout=donut&size_weight=0.5&count_weight=0.5"/>
   
 </div>
 
