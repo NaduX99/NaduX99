@@ -85,15 +85,15 @@ Currently learning **Software Engineering** while working on projects using **Py
 </p>
 
 ## 🌟 Featured Projects
-- 🔧 [Project One](https://github.com/NaduX99/project-one) — *Short project description here*
-- 🚀 [Project Two](https://github.com/NaduX99/project-two) — *Short project description here*
+- 🔧 [Project One](https://github.com/NaduX99/project-one) — *Create ML use analyzer*
+- 🚀 [Project Two](https://github.com/NaduX99/project-two) — *Research on medical ambulance Track and find best route find*
 
 ---
 
 ## 🔗 Connect with Me
 - 🌐 [GitHub](https://github.com/NaduX99)
-- 📫 Email: **nadullaknidu7@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/nadul-laknidu-53a244357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📫 **nadullaknidu7@gmail.com**
+- 💼 [LinkedIn-Nadul_Laknidu](https://www.linkedin.com/in/nadul-laknidu-53a244357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
