@@ -4,6 +4,7 @@
 </div>
 
 # 👋 Hello, I'm Nadul Laknidu (NaduX99)
+
 💻 Aspiring Software Engineer | 🌐 Web Developer | 🤖 AI Enthusiast  
 I'm passionate about learning, building creative solutions, and exploring new technologies.  
 Currently learning **Software Engineering** while working on projects using **Python, Java, JavaScript, and Web Technologies**.
@@ -48,8 +49,8 @@ Currently learning **Software Engineering** while working on projects using **Py
   
   <br><br>
   
-  <!-- GitHub Streak Stats - Auto Updates Daily -->
-  <img src="https://streak-stats.demolab.com?user=NaduX99&theme=tokyonight-duo&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=58A6FF&ring=79C0FF&fire=FF7B72&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=79C0FF&sideLabels=C9D1D9"/>
+  <!-- ✅ GitHub Streak Stats - Fixed -->
+  <img src="https://streak-stats.demolab.com/?user=NaduX99&theme=tokyonight-duo&hide_border=true&border_radius=10&date_format=M+j%2C+Y&background=0D1117&stroke=58A6FF&ring=79C0FF&fire=FF7B72&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=79C0FF&sideLabels=C9D1D9"/>
   
   <br><br>
   
@@ -58,12 +59,12 @@ Currently learning **Software Engineering** while working on projects using **Py
   
   <br><br>
   
-  <!-- GitHub Trophies - Updates with Achievements -->
+  <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=NaduX99&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,PullRequest,Issues"/>
   
   <br><br>
   
-  <!-- Most Used Languages - Detailed View -->
+  <!-- Most Used Languages - Donut Style -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaduX99&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10&layout=donut&size_weight=0.5&count_weight=0.5"/>
   
 </div>
@@ -84,17 +85,18 @@ Currently learning **Software Engineering** while working on projects using **Py
   <img src="https://komarev.com/ghpvc/?username=NaduX99&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge" />
 </p>
 
+---
+
 ## 🌟 Featured Projects
-- 🔧 [Project One](https://github.com/NaduX99/project-one) — *Create ML use analyzer*
-- 🚀 [Project Two](https://github.com/NaduX99/project-two) — *Research on medical ambulance Track and find best route*
+- 🔧 [Project One](https://github.com/NaduX99/project-one) — *Create ML Use Analyzer*
+- 🚀 [Project Two](https://github.com/NaduX99/project-two) — *Medical Ambulance Route Tracker*
 
 ---
 
 ## 🔗 Connect with Me
+
 - 🌐 [GitHub](https://github.com/NaduX99)
 - 📫 **nadullaknidu7@gmail.com**
-- 💼 [LinkedIn-Nadul_Laknidu](https://www.linkedin.com/in/nadul-laknidu-53a244357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 💼 [LinkedIn – Nadul Laknidu](https://www.linkedin.com/in/nadul-laknidu-53a244357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=NaduX99&label=PROFILE+VIEWS&color=blue)
