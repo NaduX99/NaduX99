@@ -86,7 +86,7 @@ Currently learning **Software Engineering** while working on projects using **Py
 
 ## 🌟 Featured Projects
 - 🔧 [Project One](https://github.com/NaduX99/project-one) — *Create ML use analyzer*
-- 🚀 [Project Two](https://github.com/NaduX99/project-two) — *Research on medical ambulance Track and find best route *
+- 🚀 [Project Two](https://github.com/NaduX99/project-two) — *Research on medical ambulance Track and find best route*
 
 ---
 
