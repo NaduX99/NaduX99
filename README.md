@@ -82,16 +82,18 @@ Currently learning **Software Engineering** while working on projects using **Py
 
 ---
 
-## 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-```text
-JavaScript   8 hrs 15 mins   ████████████░░░░░░░░░░░░░   48.30%
-Python       4 hrs 32 mins   ██████░░░░░░░░░░░░░░░░░░░   26.51%
-Java         2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.12%
-HTML         1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   09.30%
-CSS          0 hrs 42 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.14%
-```
-<!--END_SECTION:waka-->
+## 📈 Daily Activity & Progress
+<div align="center">
+
+<!-- Daily Contribution Heatmap -->
+<img src="https://ghchart.rshah.org/NaduX99" alt="NaduX99's GitHub Contribution Graph" />
+
+<br><br>
+
+<!-- Real-time Metrics -->
+<img src="https://github-readme-stats.vercel.app/api?username=NaduX99&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&custom_title=Today's%20GitHub%20Activity" />
+
+</div>
 
 ---
 
