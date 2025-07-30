@@ -50,23 +50,23 @@ Currently learning **Software Engineering** while working on projects using **Py
 
 <br><br>
 
-<!-- GitHub Activity Graph (Fixed URL) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaduX99&theme=tokyo-night&hide_border=true&radius=10&bg_color=1a1b27&color=a9b1d6&line=f7768e&point=bb9af7" />
+<!-- GitHub Activity Graph - Alternative -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaduX99&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
 
 <br><br>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=NaduX99&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=NaduX99&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 
 <br><br>
 
-<!-- Contribution Snake Animation -->
-<img src="https://raw.githubusercontent.com/NaduX99/NaduX99/output/github-contribution-grid-snake.svg" />
+<!-- Metrics Display -->
+<img src="https://metrics.lecoq.io/NaduX99?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FColombo" />
 
 <br><br>
 
-<!-- Additional Stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaduX99&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10&border_radius=10" />
+<!-- Additional Languages Stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaduX99&layout=compact&theme=dark&hide_border=true&langs_count=8&border_radius=10" />
 
 </div>
 
@@ -102,15 +102,24 @@ CSS          0 hrs 42 mins   █░░░░░░░░░░░░░░░░
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Achievements & Analytics
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaduX99&theme=tokyonight" />
+
+<!-- Detailed Profile Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaduX99&theme=github_dark" />
+
 <br><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaduX99&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaduX99&theme=tokyonight" />
+
+<!-- Language and Commit Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaduX99&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaduX99&theme=github_dark" />
+
 <br><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NaduX99&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NaduX99&theme=tokyonight&utcOffset=5.5" />
+
+<!-- General Stats and Productivity -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NaduX99&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NaduX99&theme=github_dark&utcOffset=5.5" />
+
 </div>
 
 ---
