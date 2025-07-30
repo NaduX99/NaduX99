@@ -34,36 +34,36 @@ Currently learning **Software Engineering** while working on projects using **Py
 
 <div align="center">
   
-  <!-- Live Stats Counter with Gaming Theme -->
+  <!-- Live Stats Counter -->
   <img src="https://komarev.com/ghpvc/?username=NaduX99&label=Profile+Views&color=0e75b6&style=flat&labelColor=000000" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/NaduX99?label=Followers&style=flat&color=0e75b6&labelColor=000000" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/NaduX99?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=flat&color=0e75b6&labelColor=000000" alt="Total Stars"/>
   
   <br><br>
   
-  <!-- Enhanced GitHub Stats with Professional Gaming Look -->
+  <!-- GitHub Stats -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaduX99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF"/>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaduX99&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
   
   <br><br>
   
-  <!-- ✅ GitHub Streak Stats - FIXED! Daily Updates -->
+  <!-- GitHub Streak - Working Daily -->
   <img src="https://streak-stats.demolab.com/?user=NaduX99&theme=tokyonight-duo&hide_border=true&border_radius=10&date_format=M+j%2C+Y&background=0D1117&stroke=58A6FF&ring=79C0FF&fire=FF7B72&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=79C0FF&sideLabels=C9D1D9"/>
   
   <br><br>
   
-  <!-- Activity Graph - Updates in Real-time -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaduX99&theme=github-compact&bg_color=0D1117&color=79C0FF&line=58A6FF&point=FF7B72&area=true&hide_border=true&radius=10"/>
+  <!-- Activity Graph - Reliable Version -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=NaduX99&theme=github-compact&bg_color=0D1117&color=79C0FF&line=58A6FF&point=FF7B72&area=true&hide_border=true&radius=10"/>
   
   <br><br>
   
-  <!-- GitHub Trophies - Updates with Achievements -->
+  <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=NaduX99&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,PullRequest,Issues"/>
   
   <br><br>
   
-  <!-- Most Used Languages - Detailed View -->
+  <!-- Donut Style Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaduX99&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10&layout=donut&size_weight=0.5&count_weight=0.5"/>
   
 </div>
