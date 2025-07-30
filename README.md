@@ -30,29 +30,28 @@ Currently learning **Software Engineering** while working on projects using **Py
 ---
 
 ## 🚀 My GitHub Dashboard
-
 <div align="center">
 
-<!-- Stats, Followers, Stars -->
+<!-- Profile Stats -->
 <img src="https://komarev.com/ghpvc/?username=NaduX99&label=Profile+Views&color=0e75b6&style=flat&labelColor=000000" />
 <img src="https://img.shields.io/github/followers/NaduX99?label=Followers&style=flat&color=0e75b6&labelColor=000000" />
 <img src="https://img.shields.io/github/stars/NaduX99?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=flat&color=0e75b6&labelColor=000000" />
 
 <br><br>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats Cards -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaduX99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaduX99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaduX99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" />
 
 <br><br>
 
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com/?user=NaduX99&theme=tokyonight-duo&hide_border=true&border_radius=10&date_format=M+j%2C+Y" />
+<!-- GitHub Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=NaduX99&theme=tokyonight&hide_border=true&border_radius=10&date_format=M+j%2C+Y" />
 
 <br><br>
 
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=NaduX99&theme=github-compact&hide_border=true&radius=10" />
+<!-- GitHub Activity Graph (Fixed URL) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaduX99&theme=tokyo-night&hide_border=true&radius=10&bg_color=1a1b27&color=a9b1d6&line=f7768e&point=bb9af7" />
 
 <br><br>
 
@@ -61,8 +60,13 @@ Currently learning **Software Engineering** while working on projects using **Py
 
 <br><br>
 
-<!-- Donut Style Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaduX99&layout=donut&theme=tokyonight&hide_border=true&langs_count=10" />
+<!-- Contribution Snake Animation -->
+<img src="https://raw.githubusercontent.com/NaduX99/NaduX99/output/github-contribution-grid-snake.svg" />
+
+<br><br>
+
+<!-- Additional Stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaduX99&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10&border_radius=10" />
 
 </div>
 
@@ -78,17 +82,63 @@ Currently learning **Software Engineering** while working on projects using **Py
 
 ---
 
+## 📊 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+```text
+JavaScript   8 hrs 15 mins   ████████████░░░░░░░░░░░░░   48.30%
+Python       4 hrs 32 mins   ██████░░░░░░░░░░░░░░░░░░░   26.51%
+Java         2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.12%
+HTML         1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   09.30%
+CSS          0 hrs 42 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.14%
+```
+<!--END_SECTION:waka-->
+
+---
+
 ## 🌟 Featured Projects
-- 🔧 [Project One](https://github.com/NaduX99/project-one) — *Create ML use analyzer*
-- 🚀 [Project Two](https://github.com/NaduX99/project-two) — *Research on medical ambulance Track and find best route*
+- 🔧 [ML Analyzer Project](https://github.com/NaduX99/project-one) — *Machine Learning usage analyzer with data visualization*
+- 🚀 [Medical Ambulance Tracker](https://github.com/NaduX99/project-two) — *Real-time ambulance tracking with optimal route research*
+- 💡 [Web Portfolio](https://github.com/NaduX99/portfolio) — *Personal portfolio showcasing projects and skills*
+
+---
+
+## 🏆 GitHub Achievements
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaduX99&theme=tokyonight" />
+<br><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaduX99&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaduX99&theme=tokyonight" />
+<br><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NaduX99&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NaduX99&theme=tokyonight&utcOffset=5.5" />
+</div>
 
 ---
 
 ## 🔗 Connect with Me
-- 🌐 [GitHub](https://github.com/NaduX99)
-- 💼 [LinkedIn](https://www.linkedin.com/in/nadul-laknidu-53a244357)
-- 📫 Email: **nadullaknidu7@gmail.com**
+<p align="center">
+  <a href="https://github.com/NaduX99">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nadul-laknidu-53a244357">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nadullaknidu7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NaduX99&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge" />
+  <br>
+  <i>⭐ From [NaduX99](https://github.com/NaduX99)</i>
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NaduX99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&custom_title=NaduX99's%20GitHub%20Stats" />
 </p>
