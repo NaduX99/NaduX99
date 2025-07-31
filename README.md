@@ -32,7 +32,7 @@ Currently learning **Software Engineering** while working on projects using **Py
 ## 🚀 My GitHub Dashboard
 <div align="center">
 
-<!-- Stats, Followers, Stars -->
+<!-- Stats, Followers,Stars -->
 <img src="https://komarev.com/ghpvc/?username=NaduX99&label=Profile+Views&color=0e75b6&style=flat&labelColor=000000" />
 <img src="https://img.shields.io/github/followers/NaduX99?label=Followers&style=flat&color=0e75b6&labelColor=000000" />
 <img src="https://img.shields.io/github/stars/NaduX99?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=flat&color=0e75b6&labelColor=000000" />
