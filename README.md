@@ -45,7 +45,7 @@ Currently learning **Software Engineering** while working on projects using **Py
 
 <br><br>
 
-<!-- GitHub Streak - FIXED -->
+<!-- GitHub Streak -FIXED -->
 <img src="https://streak-stats.demolab.com/?user=NaduX99&theme=tokyonight&hide_border=true&border_radius=10&date_format=M+j%5B%2C%5D+Y" />
 
 <br><br>
