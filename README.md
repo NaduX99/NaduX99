@@ -85,7 +85,7 @@ Currently learning **Software Engineering** while working on projects using **Py
 
 ## 🔗 Connect with Me
 - 🌐 [GitHub](https://github.com/NaduX99)
-- 💼 [LinkedIn](https://www.linkedin.com/in/nadul-laknidu-53a244357)
+- 💼 <a href=https://www.linkedin.com/in/nadul-laknidu-53a244357>LinkedIn</a>
 - 📫 Email: **nadullaknidu7@gmail.com**
 
 <p align="center">
