@@ -45,11 +45,6 @@ Currently learning **Software Engineering** while working on projects using **Py
 
 <br><br>
 
-<!-- GitHub Streak -FIXED -->
-<img src="https://streak-stats.demolab.com/?user=NaduX99&theme=tokyonight&hide_border=true&border_radius=10&date_format=M+j%5B%2C%5D+Y" />
-
-<br><br>
-
 <!-- GitHub Activity Graph - FIXED -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaduX99&bg_color=1a1b27&color=a9b1d6&line=f7768e&point=bb9af7&hide_border=true&custom_title=NaduX99's%20Contribution%20Graph" />
 
