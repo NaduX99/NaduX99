@@ -87,9 +87,12 @@ Currently learning **Software Engineering** while working on projects using **Py
 
 ---
 
-## 📊 Coding Activity
+## 📈 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NaduX99&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaduX99&theme=tokyonight" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaduX99&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaduX99&theme=tokyonight" />
 </div>
 
 ---
