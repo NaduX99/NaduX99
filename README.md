@@ -29,14 +29,6 @@ Currently learning **Software Engineering** while working on projects using **Py
 
 ---
 
-
-
-
-<!-- GitHub Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=NaduX99&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
-
-<br><br>
-
 <!-- Modern GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=NaduX99&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 
