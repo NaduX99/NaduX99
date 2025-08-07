@@ -30,19 +30,7 @@ Currently learning **Software Engineering** while working on projects using **Py
 ---
 
 
-<br>
 
-<!-- GitHub Activity Graph with better API -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaduX99&bg_color=1a1b27&color=a9b1d6&line=f7768e&point=bb9af7&hide_border=true&custom_title=Daily%20Contribution%20Activity&border_radius=10&area=true&area_color=7c3aed" />
-
-<br><br>
-
-<!-- Enhanced Language Statistics with faster updates -->
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NaduX99&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10&border_radius=10&custom_title=Live%20Language%20Stats&cache_seconds=1800&card_width=350" />
-</p>
-
-<br>
 
 <!-- GitHub Streak Stats -->
 <img src="https://streak-stats.demolab.com/?user=NaduX99&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
