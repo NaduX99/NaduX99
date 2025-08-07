@@ -29,21 +29,6 @@ Currently learning **Software Engineering** while working on projects using **Py
 
 ---
 
-## 🚀 My GitHub Dashboard
-<div align="center">
-
-<!-- Stats, Followers, Stars with cache busting -->
-<img src="https://komarev.com/ghpvc/?username=NaduX99&label=Profile+Views&color=0e75b6&style=flat&labelColor=000000" />
-<img src="https://img.shields.io/github/followers/NaduX99?label=Followers&style=flat&color=0e75b6&labelColor=000000" />
-<img src="https://img.shields.io/github/stars/NaduX99?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=flat&color=0e75b6&labelColor=000000" />
-
-<br><br>
-
-<!-- GitHub Stats Row with cache busting -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NaduX99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&cache_seconds=86400" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NaduX99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10&cache_seconds=1800&card_width=320" />
-</p>
 
 <br>
 
