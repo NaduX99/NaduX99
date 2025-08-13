@@ -146,5 +146,5 @@ Currently learning **Software Engineering** while working on projects using **Py
 <div align="center">
   <i>⭐️ Crafted in the digital realm by <a href="https://github.com/NaduX99">NaduX99</a></i>
   <br>
-  <sub>🚀 <i>"Every commit is a step towards digital mastery"</i></sub>
+  <sub>🚀 <i>"Transfomation Intention to the reality"</i></sub>
 </div>
