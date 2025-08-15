@@ -125,16 +125,6 @@ Currently learning **Software Engineering** while working on projects using **Py
 <!-- Gaming Terminal Style Footer -->
 <div align="center">
 <br>
-
-```ascii
-┌─┤ TERMINAL STATUS ├─────────────────────────────────────────┐
-│ > Connection established with NaduX99's profile...          │
-│ > Loading gaming interface... [████████████████████] 100%   │
-│ > All systems operational. Ready for collaboration!         │
-│ > Type 'connect' to initialize partnership protocol...      │
-└─────────────────────────────────────────────────────────────┘
-```
-
 <p>
   <img src="https://komarev.com/ghpvc/?username=NaduX99&label=MATRIX+ACCESSED&color=00ff00&style=for-the-badge&labelColor=000000" />
 </p>
