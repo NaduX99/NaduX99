@@ -1,4 +1,4 @@
-<!-- GitHub Banner -->
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/bd438c2c-8b88-4a65-bedc-362db9fe016f" width="20%" alt="GitHub Banner"/>
 </div>
