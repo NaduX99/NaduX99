@@ -4,7 +4,8 @@
 </div>
 
 # 👋 Hello, I'm Nadul Laknidu (NaduX99)
-💻 Aspiring Software Engineer | 🌐 Web Developer | 🤖 AI Enthusiast | 💻 Undergraduate SE
+💻 Aspiring Software Engineer | 🌐 Web Developer | 🤖 AI Enthusiast | 💻 Undergraduate SE<br>
+
 Currently learning **Software Engineering** while working on projects using **Python, Java, JavaScript, and Web Technologies**.
 
 ---
