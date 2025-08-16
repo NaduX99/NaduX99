@@ -40,7 +40,7 @@ Currently learning **Software Engineering** while working on projects using **Py
 ## 🎮 Gaming UI Status Board
 <div align="center">
   
-<!-- Cyberpunk Style Status Cards -->
+
 <table>
 <tr>
 <td align="center" width="25%">
