@@ -66,7 +66,7 @@ Currently learning **Software Engineering** while working on projects using **Py
 </tr>
 </table>
 
-<!-- Gaming Progress Bars -->
+
 <br>
 
 **🎮 PLAYER STATS**
