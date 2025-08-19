@@ -110,7 +110,7 @@ Currently learning **Software Engineering** while working on projects using **Py
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Connect with me
 <p align="center">
   <a href="https://github.com/NaduX99">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
