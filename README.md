@@ -30,7 +30,7 @@ Currently learning **Software Engineering** while working on projects using **Py
 
 ---
 
-<!-- Modern GitHub Trophies -->
+<!-- Modern  GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=NaduX99&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 
 </div>
