@@ -86,7 +86,7 @@ Currently learning **Software Engineering** while working on projects using **Py
 
 </div>
 
----
+----
 
 ## 🌟 Featured Projects
 - 🔧 [Project One](https://github.com/NaduX99/project-one) — *ML usage analyzer*
