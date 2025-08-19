@@ -8,7 +8,7 @@
 
 Currently learning **Software Engineering** while working on projects using **Python, Java, JavaScript, and Web Technologies**.
 
----
+----
 
 ## 👀 About Me
 - 🎯 Interested in **AI, Web Development, and Open Source**
