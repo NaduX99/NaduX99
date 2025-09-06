@@ -94,19 +94,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaduX99&layout=compact&theme=radical&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_color=00d4ff&hide_border=false" width="49%" />
 </div>
 
-## 📈 **Real-Time Neural Network Analytics**
-<div align="center">
-  <!-- Enhanced profile summary with animations -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaduX99&theme=radical" width="100%" />
-  <br><br>
-  <!-- Enhanced language cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaduX99&theme=radical" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaduX99&theme=radical" width="49%" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NaduX99&theme=radical" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NaduX99&theme=radical&utcOffset=5.5" width="49%" />
-</div>
-
 ## 🌐 **Neural Network Connections**
 <div align="center">
   <a href="https://github.com/NaduX99">
