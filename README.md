@@ -112,9 +112,6 @@
 
 <!-- Enhanced Gaming Terminal Footer with Animations -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Matrix%20Connection%20Established&fontSize=25&fontAlign=50&fontAlignY=65&desc=Neural%20Link%20Active&descAlign=50&descAlignY=80&animation=twinkling" />
-
-<br>
 <p>
   <img src="https://komarev.com/ghpvc/?username=NaduX99&label=NEURAL+NETWORK+ACCESS&color=00ff00&style=for-the-badge&labelColor=000000" />
   <br><br>
