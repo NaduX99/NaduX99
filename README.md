@@ -75,17 +75,6 @@ Developer Profile: {
 </div>
 
 <div align="center">
-<br>
-
-**🎮 ELITE PLAYER STATS**
-╭─────────────────────────────────────────────────────────────╮
-│ 💻 CODING LEVEL ████████████████████░░░░░ 83% [EXPERT] │
-│ 🤖 AI MASTERY ████████████████░░░░░░░░░ 72% [ADVANCED] │
-│ 🌐 WEB DEV ████████████████████████░ 95% [MASTER] │
-│ ☕ CAFFEINE ████████████████████████ 100% [MAXED] │
-│ 🔥 MOTIVATION ████████████████████████ ∞% [UNLIMITED] │
-╰─────────────────────────────────────────────────────────────╯
-
 <img src="https://img.shields.io/badge/🌟_XP_EARNED-15,847-00d4ff?style=for-the-badge&logo=star&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/⚔️_BUGS_DEFEATED-342-ff4757?style=for-the-badge&logo=bug&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/🎨_PROJECTS_BUILT-28-5f27cd?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000" />
