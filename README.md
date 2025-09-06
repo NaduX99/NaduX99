@@ -19,15 +19,14 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaduX99&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
-Developer Profile: {
-🎯 Interests: "AI, Web Development, and Open Source",
-🌱 Learning: "Software Engineering & Advanced AI Concepts",
-💬 Collaboration: "Web Projects, AI Experiments, Learning Communities",
-📫 Contact: "LinkedIn | nadullaknidu7@gmail.com",
-😄 Pronouns: "NaduX",
-⚡ Philosophy: "Code when you're sad — it always helps!",
+🎯 Interests: "AI, Web Development, and Open Source"<br>
+🌱 Learning: "Software Engineering & Advanced AI Concepts"<br>
+💬 Collaboration: "Web Projects, AI Experiments, Learning Communities"<br>
+📫 Contact: "LinkedIn | nadullaknidu7@gmail.com"<br>
+😄 Pronouns: "NaduX"<br>
+⚡ Philosophy: "Code when you're sad — it always helps!"<br>
 🎮 Status: "Always Ready for the Next Challenge"
-}
+
 
 ## 🛠️ **Tech Arsenal**
 <div align="center">
