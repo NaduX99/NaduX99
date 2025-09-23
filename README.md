@@ -73,17 +73,6 @@
 </table>
 </div>
 
-<div align="center">
-<img src="https://img.shields.io/badge/🌟_XP_EARNED-15,847-00d4ff?style=for-the-badge&logo=star&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/⚔️_BUGS_DEFEATED-342-ff4757?style=for-the-badge&logo=bug&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/🎨_PROJECTS_BUILT-28-5f27cd?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/🏅_ACHIEVEMENTS-LEGENDARY-f39c12?style=for-the-badge&logo=medal&logoColor=white&labelColor=000000" />
-</div>
-
-<!-- Enhanced GitHub Trophies with Animation -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,2,2,30&height=3&section=header" width="100%"/>
-
 
 
 ## 🌐 **Neural Network Connections**
