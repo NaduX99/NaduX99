@@ -37,43 +37,6 @@
   <img src="https://github-readme-streak-stats.vercel.app?user=NaduX99&theme=dark&background=0d1117&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=ff073a&currStreakNum=00d4ff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=ffffff" />
 </div>
 
-<!-- Enhanced Gaming UI Status Board with Animations -->
-## 🎮 **Status Board**
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,2,2,30&height=3&section=header" width="100%"/>
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/⚡_POWER_CORE-ONLINE-00ff41?style=for-the-badge&logo=lightning&logoColor=white&labelColor=0d1117&color=00ff41" />
-<br>
-<img src="https://img.shields.io/badge/CPU-98%25-00ff41?style=flat-square&labelColor=0d1117&color=00ff41" />
-<sub><b>System Status</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎯_MISSION-CODING-ff073a?style=for-the-badge&logo=target&logoColor=white&labelColor=0d1117&color=ff073a" />
-<br>
-<img src="https://img.shields.io/badge/PRIORITY-CRITICAL-ff073a?style=flat-square&labelColor=0d1117&color=ff073a" />
-<sub><b>Current Quest</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🔥_STREAK-ACTIVE-ffa500?style=for-the-badge&logo=fire&logoColor=white&labelColor=0d1117&color=ffa500" />
-<br>
-<img src="https://img.shields.io/badge/COMBO-x999-ffa500?style=flat-square&labelColor=0d1117&color=ffa500" />
-<sub><b>Combat Mode</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🏆_RANK-LEGEND-9945ff?style=for-the-badge&logo=trophy&logoColor=white&labelColor=0d1117&color=9945ff" />
-<br>
-<img src="https://img.shields.io/badge/PRESTIGE-MAX-9945ff?style=flat-square&labelColor=0d1117&color=9945ff" />
-<sub><b>Achievement Level</b></sub>
-</td>
-</tr>
-</table>
-</div>
-
-
 
 ## 🌐 **Neural Network Connections**
 <div align="center">
