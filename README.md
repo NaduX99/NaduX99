@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=1000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=290&lines=👋+Hello,+I'm+Nadul+Laknidu+(NaduX99);💻+Aspiring+Software+Engineer;🌐+Web+Developer+%7C+🤖+AI+Enthusiast;💻+Undergraduate+SE+Student;🚀+Building+Tomorrow's+Technology+Today" alt="Typing Animation" />
 </div>
 
-<!-- Animated Separator -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎯 **About Me**
