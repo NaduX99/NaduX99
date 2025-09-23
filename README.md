@@ -7,7 +7,7 @@
   <img src="https://github.com/user-attachments/assets/bd438c2c-8b88-4a65-bedc-362db9fe016f" width="150" alt="NaduX99 Avatar" style="border-radius: 50%; border: 3px solid #00d4ff; box-shadow: 0 0 20px #00d4ff;" />
 </div>
 
-<!-- Dynamic Typing Animation -->
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=1000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=290&lines=👋+Hello,+I'm+Nadul+Laknidu+(NaduX99);💻+Aspiring+Software+Engineer;🌐+Web+Developer+%7C+🤖+AI+Enthusiast;💻+Undergraduate+SE+Student;🚀+Building+Tomorrow's+Technology+Today" alt="Typing Animation" />
 </div>
