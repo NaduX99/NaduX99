@@ -88,12 +88,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=NaduX99&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=MultiLanguage,Stars,Commit,Followers,Repositories,Issues,PullRequest,Reviews" />
 </div>
 
-## 📊 **Battle Statistics & Analytics**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaduX99&show_icons=true&theme=radical&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_color=00d4ff&hide_border=false" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaduX99&layout=compact&theme=radical&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_color=00d4ff&hide_border=false" width="49%" />
-</div>
-
 ## 🌐 **Neural Network Connections**
 <div align="center">
   <a href="https://github.com/NaduX99">
