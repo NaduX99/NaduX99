@@ -84,9 +84,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,0,2,2,30&height=3&section=header" width="100%"/>
 
-## 🏆 **Achievement Gallery**
-<img src="https://github-profile-trophy.vercel.app/?username=NaduX99&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=MultiLanguage,Stars,Commit,Followers,Repositories,Issues,PullRequest,Reviews" />
-</div>
+
 
 ## 🌐 **Neural Network Connections**
 <div align="center">
