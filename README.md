@@ -25,7 +25,7 @@
 📫 Contact: "LinkedIn | nadullaknidu7@gmail.com"<br>
 😄 Pronouns: "NaduX"<br>
 ⚡ Philosophy: "Code when you're sad — it always helps!"<br>
-🎮 Status: "Always Ready for the Next Challenge"
+🎮 Status: "Always Ready for the Next Challenge!"
 
 
 ## 🛠️ **Tech Arsenal**
