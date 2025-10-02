@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=NaduX99&fontSize=90&fontAlign=70&fontAlignY=35&desc=Digital%20Realm%20Architect&descAlign=70&descAlignY=50&animation=fadeIn" />
 </div>
 
-<!-- Animated Profile Image with Glow Effect -->
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/bd438c2c-8b88-4a65-bedc-362db9fe016f" width="150" alt="NaduX99 Avatar" style="border-radius: 50%; border: 3px solid #00d4ff; box-shadow: 0 0 20px #00d4ff;" />
 </div>
