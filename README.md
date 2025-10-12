@@ -23,7 +23,7 @@
 🌱 Learning: "Software Engineering & Advanced AI Concepts"<br>
 💬 Collaboration: "Web Projects, AI Experiments, Learning Communities"<br>
 📫 Contact: "LinkedIn | nadullaknidu7@gmail.com"<br>
-😄 Pronouns: "NaduX"<br>
+😄 Pronouns: "NaduX99"<br>
 ⚡ Philosophy: "Code when you're sad — it always helps!"<br>
 🎮 Status: "Always Ready for the Next Challenge!"
 
