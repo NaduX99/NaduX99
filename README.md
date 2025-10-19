@@ -21,7 +21,7 @@
 </div>
 🎯 Interests: "AI, Web Development, and Open Source"<br>
 🌱 Learning: "Software Engineering & Advanced AI Concepts"<br>
-💬 Collaboration: "Web Projects, AI Experiments, Learning Communities"<br>
+💬 Collaboration: "Web Projects,AI Experiments, Learning Communities"<br>
 📫 Contact: "LinkedIn | nadullaknidu7@gmail.com"<br>
 😄 Pronouns: "NaduX"<br>
 ⚡ Philosophy: "Code when you're sad — it always helps!"<br>
