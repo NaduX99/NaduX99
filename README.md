@@ -38,7 +38,7 @@
 </div>
 
 
-##🌐**Neural Network Connections**
+## 🌐**Neural Network Connections**
 <div align="center">
   <a href="https://github.com/NaduX99">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=0d1117" />
