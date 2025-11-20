@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=1000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=290&lines=👋+Hello,+I'm+Nadul+Laknidu+(NaduX99);💻+Aspiring+Software+Engineer;🌐+Web+Developer+%7C+🤖+AI+Enthusiast;💻+Undergraduate+SE+Student;🚀+Building+Tomorrow's+Technology+Today"alt="Type Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=1000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=290&lines=👋+Hello Guys,+I'm+Nadul+Laknidu+(NaduX99);💻+Aspiring+Software+Engineer;🌐+Web+Developer+%7C+🤖+AI+Enthusiast;💻+Undergraduate+SE+Student;🚀+Building+Tomorrow's+Technology+Today"alt="Type Animation" />
 </div>
 
 
