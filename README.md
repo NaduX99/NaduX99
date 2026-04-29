@@ -1,5 +1,13 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
 <img src="https://github.com/NaduX99.png" width="100" style="border-radius:50%;" alt="NaduX99"/>
 
 <br/>
