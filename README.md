@@ -39,23 +39,19 @@
 | **Email** | nadullaknidu7@gmail.com |
 | **Pronouns** | NaduX |
 
----
-
 ## Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NaduX99&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NaduX99&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="150"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaduX99&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaduX99&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="150"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.vercel.app?user=NaduX99&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9"/>
+<img src="https://github-readme-streak-stats.vercel.app?user=NaduX99&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9"/>
 
 </div>
-
----
 
 ## Tech Stack
 
