@@ -31,29 +31,6 @@
 
 ---
 
-### 📊 Galactic Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=NaduX99&show_icons=true&hide_border=false&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&border_color=44475a&border_radius=10" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaduX99&layout=compact&hide_border=false&bg_color=0d1117&title_color=bd93f9&text_color=f8f8f2&border_color=44475a&border_radius=10" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.vercel.app?user=NaduX99&hide_border=false&background=0d1117&ring=bd93f9&fire=ff79c6&currStreakLabel=f8f8f2&sideLabels=6272a4&dates=6272a4&currStreakNum=f8f8f2&sideNums=f8f8f2&border=44475a&border_radius=10"/>
-
----
-
-### 🛠 Starship Arsenal (Tech Stack)
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
 
 ### 🛰 Activity Radar
 
