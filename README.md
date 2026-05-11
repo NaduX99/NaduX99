@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- macOS Window Header with Space Banner -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b27&height=250&section=header&text=NaduX99&fontSize=70&fontAlignY=40&animation=twinkling&theme=dark" width="100%"/>
-
-<div align="center" style="border: 1px solid #44475a; border-top: none; border-radius: 0 0 10px 10px; padding: 20px; background: linear-gradient(180deg, #0d1117 0%, #161b22 100%);">
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 
