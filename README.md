@@ -1,6 +1,3 @@
-# GitHub Profile README (Updated to Match Uploaded Design)
-
-````md
 <div align="center">
 
 <img src="https://github.com/NaduX99.png" width="120" style="border-radius:50%; border:3px solid #1f6feb;" alt="NaduX99"/>
@@ -103,18 +100,3 @@
 ```Transformation of intention to reality```
 
 </div>
-````
-
-## Changes Added Based on Your Uploaded Design
-
-* Dark modern portfolio style
-* Center aligned profile layout
-* Clean bordered sections
-* Small colorful skill tags
-* Minimal GitHub stats cards
-* Professional social buttons
-* Modern dark blue GitHub theme
-* Compact and aesthetic section titles
-* Styled availability badges
-* Improved spacing and alignment
-* Better typography style like screenshot
