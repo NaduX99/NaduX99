@@ -1,36 +1,8 @@
-<div align="center">
-
-<img src="https://github.com/NaduX99.png" width="120" style="border-radius:50%; border:3px solid #1f6feb;" alt="NaduX99"/>
-
-# Nadul Laknidu
-
-```Aspiring Software Engineer · AI Enthusiast · Web Developer```
-
-```Undergraduate SE Student · Sri Lanka LK```
-
-<br/>
-
-![Available](https://img.shields.io/badge/●%20Available-238636?style=flat-square&labelColor=0D1117)
-![Open Source](https://img.shields.io/badge/Open%20Source-2ea043?style=flat-square&labelColor=0D1117)
-![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-1f6feb?style=flat-square&labelColor=0D1117)
-![Web Dev](https://img.shields.io/badge/Web%20Dev-8250df?style=flat-square&labelColor=0D1117)
-
-</div>
+<!-- MAC OS STYLE DARK README -->
 
 ---
 
-# 「 ABOUT 」
-
-| 🎓 Role | Undergrad Software Engineering Student |
-|---|---|
-| 🚀 Focus | AI · Web Development · Open Source |
-| 📍 Location | Sri Lanka LK |
-| 📧 Email | nadullaknidu7@gmail.com |
-| 💬 Pronouns | NduX |
-
----
-
-# 「 TECH STACK 」
+#  TECH STACK 
 
 <div align="left">
 
@@ -50,19 +22,15 @@
 
 ---
 
-# 「 GITHUB STATS 」
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NaduX99&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NaduX99&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="170"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NaduX99&theme=algolia&no-frame=true&row=1&column=6" width="100%"/>
 
 </div>
 
 ---
-
-# 「 CONTRIBUTION SNAKE 」
 
 <div align="center">
 
@@ -72,31 +40,14 @@
 
 ---
 
-# 「 CONNECT 」
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-21262D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaduX99)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadul-laknidu-53a244357)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadullaknidu7@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourhandle)
-
-<br/><br/>
-
-> *"Code when you're sad — it always helps."*
-
-</div>
-
 ---
 
+#  CURRENT VIBE 
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=NaduX99&label=Profile%20Views&color=1f6feb&style=flat-square"/>
-
-<br/>
-
-### NaduX99
-
-```Transformation of intention to reality```
-
-</div>
+```yaml
+Editor    : VS Code
+Focus     : AI + Full Stack
+Status    : Building Future Projects
+Mood      : Code • Create • Innovate
