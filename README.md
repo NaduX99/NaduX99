@@ -1,90 +1,120 @@
+# GitHub Profile README (Updated to Match Uploaded Design)
+
+````md
 <div align="center">
 
-<img src="https://github.com/NaduX99.png" width="110" style="border-radius:50%"/>
-
-<br/>
+<img src="https://github.com/NaduX99.png" width="120" style="border-radius:50%; border:3px solid #1f6feb;" alt="NaduX99"/>
 
 # Nadul Laknidu
 
-```
-@NaduX99 · Aspiring Software Engineer · AI Enthusiast · Web Developer
-Undergraduate SE Student · Sri Lanka 🇱🇰
-```
+```Aspiring Software Engineer · AI Enthusiast · Web Developer```
 
-![Status](https://img.shields.io/badge/●_Status-Available-30d158?style=flat-square&labelColor=1e1e1e)
-![Open Source](https://img.shields.io/badge/Open_Source-30d158?style=flat-square&labelColor=1e1e1e&color=30d158)
-![AI/ML](https://img.shields.io/badge/AI_/_ML-0a84ff?style=flat-square&labelColor=1e1e1e)
-![Web Dev](https://img.shields.io/badge/Web_Dev-bf5af2?style=flat-square&labelColor=1e1e1e)
+```Undergraduate SE Student · Sri Lanka LK```
+
+<br/>
+
+![Available](https://img.shields.io/badge/●%20Available-238636?style=flat-square&labelColor=0D1117)
+![Open Source](https://img.shields.io/badge/Open%20Source-2ea043?style=flat-square&labelColor=0D1117)
+![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-1f6feb?style=flat-square&labelColor=0D1117)
+![Web Dev](https://img.shields.io/badge/Web%20Dev-8250df?style=flat-square&labelColor=0D1117)
 
 </div>
 
 ---
 
-## ⌥  About
+# 「 ABOUT 」
 
-| | |
+| 🎓 Role | Undergrad Software Engineering Student |
 |---|---|
-| 🎓 **Role** | Undergrad Software Engineering Student |
-| 🔭 **Focus** | AI · Web Development · Open Source |
-| 📍 **Location** | Sri Lanka 🇱🇰 |
-| 📬 **Email** | [nadullaknidu7@gmail.com](mailto:nadullaknidu7@gmail.com) |
-| 💬 **Pronouns** | NaduX |
+| 🚀 Focus | AI · Web Development · Open Source |
+| 📍 Location | Sri Lanka LK |
+| 📧 Email | nadullaknidu7@gmail.com |
+| 💬 Pronouns | NduX |
 
 ---
 
-## ⌥  Tech Stack
+# 「 TECH STACK 」
 
-<div align="center">
+<div align="left">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AI / ML](https://img.shields.io/badge/AI_/_ML-412991?style=for-the-badge&logo=pytorch&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-7c3aed?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
 ---
 
-## ⊙  GitHub Stats
+# 「 GITHUB STATS 」
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=NaduX99&show_icons=true&theme=github_dark&hide_border=true&bg_color=1e1e1e&title_color=0a84ff&icon_color=30d158&text_color=e8e8e8&ring_color=0a84ff" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaduX99&layout=compact&theme=github_dark&hide_border=true&bg_color=1e1e1e&title_color=0a84ff&text_color=e8e8e8" />
+<img src="https://github-readme-stats.vercel.app/api?username=NaduX99&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="170"/>
 
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=NaduX99&theme=dark&hide_border=true&background=1e1e1e&stroke=3a3a3a&ring=0a84ff&fire=30d158&currStreakLabel=e8e8e8&sideLabels=e8e8e8&dates=8a8a8e)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NaduX99&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="170"/>
 
 </div>
 
 ---
 
-## ⇢  Connect
+# 「 CONTRIBUTION SNAKE 」
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-NaduX99-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaduX99)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nadul_Laknidu-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadul-laknidu-53a244357)
-[![Email](https://img.shields.io/badge/Email-nadullaknidu7%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadullaknidu7@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourhandle)
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
+
+</div>
+
+---
+
+# 「 CONNECT 」
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-21262D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaduX99)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadul-laknidu-53a244357)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadullaknidu7@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourhandle)
+
+<br/><br/>
+
+> *"Code when you're sad — it always helps."*
 
 </div>
 
 ---
 
 <div align="center">
-  <sub><i>"Code when you're sad — it always helps."</i></sub>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=NaduX99&color=0a84ff&style=flat-square&label=Profile+Views" />
+
+<img src="https://komarev.com/ghpvc/?username=NaduX99&label=Profile%20Views&color=1f6feb&style=flat-square"/>
+
+<br/>
+
+### NaduX99
+
+```Transformation of intention to reality```
+
 </div>
+````
+
+## Changes Added Based on Your Uploaded Design
+
+* Dark modern portfolio style
+* Center aligned profile layout
+* Clean bordered sections
+* Small colorful skill tags
+* Minimal GitHub stats cards
+* Professional social buttons
+* Modern dark blue GitHub theme
+* Compact and aesthetic section titles
+* Styled availability badges
+* Improved spacing and alignment
+* Better typography style like screenshot
